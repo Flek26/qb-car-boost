@@ -1,3 +1,6 @@
+Hoping to have this up by end of September 
+
+
 # qb-car-boost
 FiveM Script for Car Boosting. Inspired by NoPixel. 
 This is a custom script built for the QB-Core framework by Flek#0001. 
