@@ -8,6 +8,11 @@ Discord DMs are open for any commissions.
 
 Just finalizing some things. Should be ready soon. 
 
+
+
+## To get updates:
+https://discord.gg/Dw7TF6R8zx
+
 ## To Do:  
 Vin Scratch.  
 NUI tablet with rep.  
