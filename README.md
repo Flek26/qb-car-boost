@@ -1,5 +1,9 @@
-Hoping to have this up by end of September 
+Update:
 
+Added racing:
+![This is an image](https://i.imgur.com/le7SaHf.png)
+
+---
 
 # qb-car-boost
 FiveM Script for Car Boosting. Inspired by NoPixel. 
